@@ -367,3 +367,6 @@ border: transparent;
  color: black;
  transform: translate(3px);
 }
+.footer-contact-icons a:visited{
+ color: #551A8B;
+}
